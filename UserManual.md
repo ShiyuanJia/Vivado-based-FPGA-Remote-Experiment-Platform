@@ -6,7 +6,7 @@
 
 ## 1.1 如何登陆
 
-<center>![img](.https://github.com/ShiyuanJia/Vivado-based-FPGA-Remote-Experiment-Platform/User Manual/wps4Fimr4.jpg) </center>
+<center>![img](.https://github.com/ShiyuanJia/Vivado-based-FPGA-Remote-Experiment-Platform/UserManual/wps4Fimr4.jpg) </center>
 
 点击登陆，待出现如下界面后输入学生的用户名和密码后点击登陆
 
